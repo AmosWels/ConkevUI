@@ -1,0 +1,451 @@
+2017/05/10 07:51:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "setting/panel".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('setting/panel')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=setting/panel
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=site/index
+---
+2017/05/10 08:01:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "SDD/settingSDD".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('SDD/settingSDD')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=SDD/settingSDD
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/05/10 08:02:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "SDD/settingSDD".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('SDD/settingSDD')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=SDD/settingSDD
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/05/10 08:03:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "SDD/settingsdd".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('SDD/settingsdd')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=SDD/settingsdd
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/05/10 08:04:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "SDD".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('SDD')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('SDD')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/SDD/s...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/SDD/settingsdd
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/05/10 08:10:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI
+---
+2017/05/10 14:08:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "settingClientInfo';".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('settingClientIn...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('settingClientIn...')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/setti...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/settingClientInfo%27;
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/settingClient
+---
+2017/05/10 14:52:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "settingAccountInfo".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('settingAccountI...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('settingAccountI...')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/setti...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/settingAccountInfo
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/settingAccount
+---
+2017/05/22 14:13:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ajax".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('ajax')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('ajax')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/ajax')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/ajax
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/05/22 14:14:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ajax".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('ajax')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('ajax')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/ajax')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/ajax
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/06/07 10:00:54 [error] [php] Undefined variable: form (C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php:811)
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(872): SettingUIController->renderFile()
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(785): SettingUIController->renderPartial()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(89): SettingUIController->render()
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionNewCustomerInfo()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): SettingUIController->runAction()
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): SettingUIController->runActionWithFilters()
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): SettingUIController->run()
+#8 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CWebApplication->run()
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php (811)
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php (89)
+in C:\xampp\htdocs\Conkev_Aml_amos\index.php (13)
+2017/06/07 10:25:52 [error] [php] include(Organization.php): failed to open stream: No such file or directory (C:\xampp\htdocs\Conkev_Aml_amos\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php(803): spl_autoload_call()
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CBaseController.php(95): SettingUIController->renderInternal()
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(872): SettingUIController->renderFile()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(785): SettingUIController->renderPartial()
+#5 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(89): SettingUIController->render()
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionNewCustomerInfo()
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): SettingUIController->runAction()
+#9 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): SettingUIController->runActionWithFilters()
+#10 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): SettingUIController->run()
+#11 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CWebApplication->run()
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php (803)
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php (89)
+in C:\xampp\htdocs\Conkev_Aml_amos\index.php (13)
+2017/06/07 16:15:03 [error] [exception.CException] exception 'CException' with message 'SettingUIController contains improperly nested widget tags in its view "C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php". A CActiveForm widget does not have an endWidget() call.' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CBaseController.php:101
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(872): CBaseController->renderFile('C:\\xampp\\htdocs...', NULL, true)
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(785): CController->renderPartial('NewCustomerInfo', NULL, true)
+#2 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(89): CController->render('NewCustomerInfo')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionNewCustomerInfo()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('NewCustomerInfo')
+#8 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/NewCu...')
+#9 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerApply
+---
+2017/06/15 09:33:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "settngCustomerEdd".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settngCustomerE...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settngCustomerEdd
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/06/16 08:03:55 [error] [exception.CException] exception 'CException' with message 'SettingUIController cannot find the requested view "settingCustomerCategory".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:881
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(785): CController->renderPartial('settingCustomer...', NULL, true)
+#1 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(108): CController->render('settingCustomer...')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionsettingCustomerCategory()
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('settingCustomer...')
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/setti...')
+#8 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/settingCustomerCategory
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/06/16 11:44:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "settingList".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('settingList')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('settingList')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/setti...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/settingList
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/settingClientchange
+---
+2017/06/19 11:04:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "settingList".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('settingList')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('settingList')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/setti...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/settingList
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/settingRisk
+---
+2017/06/20 10:22:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "settingList".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('settingList')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('settingList')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/setti...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/settingList
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/06/20 10:23:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "settingList".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('settingList')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('settingList')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/setti...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/settingList
+HTTP_REFERER=http://192.168.8.104/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/06/20 12:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "DatabaseJazz".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('DatabaseJazz')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('DatabaseJazz')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/Datab...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/DatabaseJazz
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/06/20 12:30:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "DatabaseJazz".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('DatabaseJazz')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('DatabaseJazz')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/Datab...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/DatabaseJazz
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/06/20 12:30:51 [error] [php] mysql_connect(): No connection could be made because the target machine actively refused it.
+ (C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\DatabaseJazz.php:46)
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CBaseController.php(95): SettingUIController->renderInternal()
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(872): SettingUIController->renderFile()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(785): SettingUIController->renderPartial()
+#3 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(120): SettingUIController->render()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionDatabaseJazz()
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): SettingUIController->runAction()
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): SettingUIController->runActionWithFilters()
+#8 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): SettingUIController->run()
+#9 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CWebApplication->run()
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/DatabaseJazz
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\DatabaseJazz.php (46)
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php (120)
+in C:\xampp\htdocs\Conkev_Aml_amos\index.php (13)
+2017/06/20 13:47:35 [error] [exception.CException] exception 'CException' with message 'SettingUIController cannot find the requested view "DatabaseJazz".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:881
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(785): CController->renderPartial('DatabaseJazz', NULL, true)
+#1 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(120): CController->render('DatabaseJazz')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionDatabaseJazz()
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('DatabaseJazz')
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/Datab...')
+#8 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/DatabaseJazz
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/07/03 10:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "settingListPercentage".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('settingListPerc...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('settingListPerc...')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/setti...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/settingListPercentage
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/panel
+---
+2017/07/10 11:33:30 [error] [php] include_once(Modal/modalnewcustomer/Sanctions.php): failed to open stream: No such file or directory (C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php:1174)
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CBaseController.php(95): SettingUIController->renderInternal()
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(872): SettingUIController->renderFile()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(785): SettingUIController->renderPartial()
+#3 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(89): SettingUIController->render()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionNewCustomerInfo()
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): SettingUIController->runAction()
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): SettingUIController->runActionWithFilters()
+#8 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): SettingUIController->run()
+#9 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CWebApplication->run()
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php (1174)
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php (1174)
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php (89)
+2017/07/10 11:35:10 [error] [php] include_once(Modal/modalnewcustomer/Sanctionmodals.php): failed to open stream: No such file or directory (C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php:1174)
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CBaseController.php(95): SettingUIController->renderInternal()
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(872): SettingUIController->renderFile()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(785): SettingUIController->renderPartial()
+#3 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(89): SettingUIController->render()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionNewCustomerInfo()
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): SettingUIController->runAction()
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): SettingUIController->runActionWithFilters()
+#8 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): SettingUIController->run()
+#9 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CWebApplication->run()
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php (1174)
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php (1174)
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php (89)
+2017/07/10 11:35:18 [error] [php] include_once(Modal/modalnewcustomer/Sanctionmodals.php): failed to open stream: No such file or directory (C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php:1174)
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CBaseController.php(95): SettingUIController->renderInternal()
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(872): SettingUIController->renderFile()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(785): SettingUIController->renderPartial()
+#3 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(89): SettingUIController->render()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionNewCustomerInfo()
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): SettingUIController->runAction()
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): SettingUIController->runActionWithFilters()
+#8 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): SettingUIController->run()
+#9 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CWebApplication->run()
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php (1174)
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\views\settingUI\NewCustomerInfo.php (1174)
+in C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php (89)
+2017/07/10 12:48:33 [error] [exception.CException] exception 'CException' with message 'Property "SettingUIController.layouts" is not defined.' in C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(106): CComponent->__set('layouts', 'SearchCertifica...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionSearchCertificate()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('SearchCertifica...')
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/Searc...')
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/SearchCertificate
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+---
+2017/07/10 12:48:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "layouts/SearchCertificate".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('layouts/SearchC...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=layouts/SearchCertificate
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+---
+2017/07/10 14:07:42 [error] [exception.CException] exception 'CException' with message 'Property "SettingUIController.layouts" is not defined.' in C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(106): CComponent->__set('layouts', 'SearchCertifica...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionSearchCertificate()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('SearchCertifica...')
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/Searc...')
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/SearchCertificate
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+---
+2017/07/10 14:07:52 [error] [exception.CException] exception 'CException' with message 'Property "SettingUIController.layouts" is not defined.' in C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\protected\controllers\SettingUIController.php(106): CComponent->__set('layouts', 'SearchCertifica...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\actions\CInlineAction.php(49): SettingUIController->actionSearchCertificate()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#4 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('SearchCertifica...')
+#6 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/Searc...')
+#7 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/SearchCertificate
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+---
+2017/07/10 14:30:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "layouts/SearchCertificate".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('layouts/SearchC...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=layouts/SearchCertificate
+HTTP_REFERER=http://192.168.8.100/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+---
+2017/07/11 12:42:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "SanctionCustomer".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('SanctionCustome...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('SanctionCustome...')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/Sanct...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/SanctionCustomer
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+---
+2017/07/11 15:07:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "RiskAssesment".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('RiskAssesment')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('RiskAssesment')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/RiskA...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/RiskAssesment
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo
+---
+2017/09/18 08:15:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "NewCustomerInfo18sept".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php:486
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CController.php(270): CController->missingAction('NewCustomerInfo...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(282): CController->run('NewCustomerInfo...')
+#2 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('settingUI/NewCu...')
+#3 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo18sept
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerApply
+---
+2018/01/29 07:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "layouts/SearchCertificate".' in C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Conkev_Aml_amos\framework\web\CWebApplication.php(141): CWebApplication->runController('layouts/SearchC...')
+#1 C:\xampp\htdocs\Conkev_Aml_amos\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Conkev_Aml_amos\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Conkev_Aml_amos/index.php?r=layouts/SearchCertificate
+HTTP_REFERER=http://localhost/Conkev_Aml_amos/index.php?r=settingUI/NewCustomerInfo18sept
+---
