@@ -20,7 +20,7 @@ $settings_link = "settings/panel";
                                 <h5 class="" style="font-size: 16px">
                                     <div class="breadcrumbs">
                                         <a href="<?php echo @Yii::app()->baseUrl; ?>/index.php?r=<?php echo $settings_link; ?>">Settings</a> &raquo; 
-                                        <span>Customer Types</span>
+                                        <span>Customer Type(s)</span>
                                     </div>
                                 </h5>
                             </div>
