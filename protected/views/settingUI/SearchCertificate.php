@@ -95,7 +95,7 @@ $settings_link = "settings/panel";
                                 <div class="col s12 m6 l3">
                                     <p>
                                         <span class="light-blue-text">Date</span><br>
-                                        <b>Aug 30, 2015</b><br>
+                                        <b>Aug 30, 2015, March 25</b><br>
                                     </p>
                                 </div>
                                 <div class="col s12 m6 l3">
